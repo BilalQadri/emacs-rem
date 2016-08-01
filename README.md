@@ -5,7 +5,7 @@ This project is on initial stage(alpha version).
 
 ## Example
 
-![image](https://{https://github.com/BilalQadri/emacs-rem/blob/master/for%20rem.png})
+![image](https://{https://github.com/BilalQadri/emacs-rem/blob/master/for%20rem.png?raw=true})
 
   
 
